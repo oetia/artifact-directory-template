@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/oetia/artifact-directory-template.git",
-    "project-repository": "https://github.com/oetia/llm-reasoners.git",
-    "project-website-url": "https://oetia.github.io/dsccapstonewebsite/",
-    "project-website-code": "https://github.com/oetia/dsccapstonewebsite/blob/main/README.md"
+  "this-repository": "https://github.com/oetia/artifact-directory-template.git",
+  "project-repository": "https://github.com/oetia/llm-reasoners.git",
+  "project-website-url": "https://oetia.github.io/dsccapstonewebsite/",
+  "project-website-code": "https://github.com/oetia/dsccapstonewebsite.git"
 }
